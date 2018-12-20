@@ -27,6 +27,7 @@ p{
 }
 .background-image{
 background-image: url(../images/the-flatiron-building.png);
+color: white;
 
 }
 
@@ -34,4 +35,5 @@ background-image: url(../images/the-flatiron-building.png);
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
